@@ -6,7 +6,7 @@ This repository contains only the public plugin instructions, connection configu
 
 ## Publication status
 
-This is a preparation version, not an approved ChatGPT or Claude directory listing. Public policy pages, real mailbox and sign-in testing, reviewer access and the recorded demo remain incomplete. Claude hosted OAuth compatibility is implemented locally but its deployment is blocked by Vercel access. Do not rely on the current hosted service as a verified public release.
+This is a preparation version, not an approved ChatGPT or Claude directory listing. Public policy pages, real mailbox and sign-in testing, reviewer access and the recorded demo remain incomplete. Claude hosted OAuth compatibility and the support page are deployed at pec.bite.technology for live testing; actual assistant and mailbox verification remains pending. Do not rely on the current hosted service as a verified public release.
 
 ## Claude directory source
 

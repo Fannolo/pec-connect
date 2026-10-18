@@ -14,11 +14,11 @@ Use the PEC Connect dashboard to revoke a connection or disconnect a mailbox. Di
 
 ## Draft status and supported surfaces
 
-This package is a publication draft, not an approved directory listing. Hosted Claude OAuth support is being prepared for chat and Cowork. Real sign-in, mailbox access, and installation in Claude have not yet been verified. Claude Code's loopback OAuth callbacks are not supported by this version; do not claim Claude Code compatibility until they are implemented and tested.
+This package is a publication draft, not an approved directory listing. Hosted Claude OAuth support is deployed for testing in chat and Cowork. Real sign-in, mailbox access, and installation in Claude have not yet been verified. Claude Code's loopback OAuth callbacks are not supported by this version; do not claim Claude Code compatibility until they are implemented and tested.
 
 ## Privacy policy and support
 
-Public privacy, terms, and support pages are not finalized. Do not submit or distribute this draft as a production release until those pages, the publisher identity, the package license, and reviewer access are supplied and verified.
+Support is available at https://pec.bite.technology/support. Public privacy and terms pages, live assistant tests, and reviewer access remain unfinished. Do not submit this draft as a verified production release until those requirements are complete.
 
 ## Launch listing
 
