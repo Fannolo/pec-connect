@@ -1,0 +1,15 @@
+{
+  "name": "alessandro-fan-plugins",
+  "owner": {
+    "name": "Alessandro Fan",
+    "email": "alessandrofan94@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "pec-connect",
+      "source": "./plugins/pec-connect",
+      "description": "Read selected Aruba PEC mailboxes and supported attachments."
+    }
+  ],
+  "description": "PEC Connect: selected, read-only Aruba PEC mailbox access."
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pec-connect",
+  "displayName": "PEC Connect",
+  "version": "0.2.0",
+  "description": "Search and read the Aruba PEC mailboxes you select, including message attachments.",
+  "author": {
+    "name": "Alessandro Fan",
+    "email": "alessandrofan94@gmail.com"
+  },
+  "license": "MIT"
+}
