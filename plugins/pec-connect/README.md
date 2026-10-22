@@ -28,6 +28,10 @@ Support page: https://pec.bite.technology/support
 
 Ask Claude to prepare an email, then open its review link and personally confirm the exact sender, recipients, plain text and attachments. Draft creation never sends. A draft expires after 30 minutes; attachments total at most 2 MiB. A submitted status indicates SMTP handoff, not certified delivery. Never automatically repeat a sending/unknown email. This sending update and its private database migration are deployed. A real provider transmission and authenticated host draft flow remain to be verified.
 
+## Download received attachments
+
+Ask for a file download rather than a text extract. The assistant uses download_pec_attachment and returns a private PEC Connect browser link. Open it and sign in to the same account used for the connector. Links expire within ten minutes and stop working after the original grant is revoked or the mailbox is disconnected. PDF, P7M, images and other binary files are supported within the existing message-size limit. Enclosed EML is explicitly flagged when serialized from parsed MIME; it is not claimed as the original legal email. No signature or legal-delivery verification is performed.
+
 ## Launch listing
 
 Publisher: Alessandro Fan. Initial availability: Italy. PEC Connect is free at launch. Marketplace publisher verification is pending.

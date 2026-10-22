@@ -8,8 +8,8 @@
     {
       "name": "pec-connect",
       "source": "./plugins/pec-connect",
-      "description": "Read selected Aruba PEC mailboxes and prepare email drafts for personal review."
+      "description": "Read selected PEC mailboxes, download attachments and prepare email drafts for personal review."
     }
   ],
-  "description": "PEC Connect: read selected Aruba PEC mailboxes and prepare emails for personal confirmation."
+  "description": "PEC Connect: read selected Aruba PEC mailboxes, download files and prepare drafts for personal confirmation."
 }

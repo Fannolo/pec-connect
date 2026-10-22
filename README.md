@@ -17,3 +17,7 @@ The plugin can be discovered through this repository as a custom marketplace. Cl
 ## Version 0.3.0
 
 The hosted service now supports immutable outgoing email drafts and personal browser confirmation for every send. Ask the assistant to prepare an email, open the review link, check all recipients, text and attachments, then personally confirm. Draft creation never sends. The updated private database and hourly cleanup are deployed. Local tests passed; real provider transmission remains to be verified. This is not marketplace review or publication.
+
+## Version 0.3.1
+
+Received attachments can now be downloaded using short-lived, account-protected browser links. Ask for a file download, open the returned PEC Connect link and sign in with the same account. Links expire within ten minutes and require the original mailbox grant. This release also fixes larger attachments on the outgoing review page. Local tests include exact 5 MiB received-file downloads and 2 MiB draft attachments. Real provider downloads and host tool discovery remain to be verified.
