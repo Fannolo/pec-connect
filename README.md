@@ -21,3 +21,7 @@ The hosted service now supports immutable outgoing email drafts and personal bro
 ## Version 0.3.1
 
 Received attachments can now be downloaded using short-lived, account-protected browser links. Ask for a file download, open the returned PEC Connect link and sign in with the same account. Links expire within ten minutes and require the original mailbox grant. This release also fixes larger attachments on the outgoing review page. Local tests include exact 5 MiB received-file downloads and 2 MiB draft attachments. Real provider downloads and host tool discovery remain to be verified.
+
+## Version 0.3.2
+
+The private hosted backend adds optional Supabase password sign-in restricted to one dedicated reviewer account UUID and email. It is disabled until the separate synthetic-data account is provisioned and configured. Normal users keep email-code sign-in. Initial ChatGPT review metadata is corrected to five positive and three negative cases with a compliant subtitle. Public policy pages, reviewer setup, real host tests and a recorded demo remain incomplete; no marketplace submission or approval has occurred. The backend is not published or licensed by this repository.

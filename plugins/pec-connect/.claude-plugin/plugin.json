@@ -1,7 +1,7 @@
 {
   "name": "pec-connect",
   "displayName": "PEC Connect",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "icon": "./assets/pec-connect.png",
   "description": "Read selected Aruba PEC mailboxes and prepare email drafts for your personal confirmation.",
   "author": {
